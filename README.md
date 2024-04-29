@@ -18,10 +18,14 @@ https://ocw.mit.edu/courses/15-082j-network-optimization-fall-2010/pages/lecture
 
 
 ///////////////////////////////////////////////////////////////////////////////////
+
 https://ocw.mit.edu/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/pages/lecture-notes/
+
 ___________________________________________________________________________________
 
+
 ✨MIT OpenCourseWare (OCW): https://ocw.mit.edu
+
 ✨Harvard Online Learning: https://online-learning.harvard.edu
 
 ✨Stanford Online: https://online.stanford.edu
