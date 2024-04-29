@@ -1,14 +1,21 @@
 # Collection
 
+
 This is to collect all the free computer science course available online.
+
 
 Algorithm
 
 https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/
+
 https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/pages/lecture-notes/
+
 https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/video_galleries/lecture-videos/
+
 https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/
+
 https://ocw.mit.edu/courses/15-082j-network-optimization-fall-2010/pages/lecture-notes/
+
 
 ///////////////////////////////////////////////////////////////////////////////////
 https://ocw.mit.edu/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/pages/lecture-notes/
@@ -54,15 +61,27 @@ ________________________________________________________________________________
 ✨University of Cape Town OpenContent: https://opencontent.uct.ac.za
 
 ✨University of Toronto Podcasts: https://mediacast.ic.utoronto.ca
+
 ✨University of Virginia Open UVA: https://open.virginia.edu
+
 ✨University of Washington OpenUW: https://www.pce.uw.edu/online/free-online-courses
+
 ✨New York University Open Education: https://www.nyu.edu/academics/open-education.html
+
 ✨University of California, Los Angeles (UCLA) Open Courseware: https://www.uclaextension.edu/open-courseware
+
 ✨Australian National University ANU OpenCourseWare: https://opencourseware.web.cern.ch
+
 ✨University of Illinois Open Courseware: https://ocw.illinois.edu
+
 ✨Utah State University OpenCourseWare: https://ocw.usu.edu
+
 ✨University of Wisconsin Open Learning: https://openeducation.blackboard.com/mooc-catalog
+
 ✨University of Adelaide OpenCourseWare: https://www.adelaide.edu.au/learning/podcasts
+
 ✨University of New South Wales OpenCourseWare: https://www.handbook.unsw.edu.au
+
 ✨Rice University OpenStax CNX: https://cnx.org
+
 ✨Gresham College Lectures: https://www.gresham.ac.uk/watch
